@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 
+Welcome to my GitHub profile! I'm passionate about coding and all things soccer👋
 
 <!--
 **sshres10/sshres10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
