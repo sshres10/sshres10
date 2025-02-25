@@ -11,7 +11,7 @@
 
 ### **About Me**  
 
-I am a Senior Database Management Specialist with expertise in data analytics, database optimization, and predictive analytics. I provide comprehensive support to the Supply Chain Data and Informatics Office (SCDIO), Analytics and Metrics (AMS), and Data Standardization Office (DSO) teams, integrating multiple data sources into Power BI dashboards to track Supply Chain Indicators (SCIs) and recommend Key Performance Indicators (KPIs) for improved data integrity and reporting accuracy. I also manage multiple concurrent project sprints, ensuring streamlined database management and reporting processes.
+As a Senior Database Management Specialist, I specialized in data analytics, database optimization, and predictive analytics. I supported the Supply Chain Data and Informatics Office (SCDIO), Analytics and Metrics (AMS), and Data Standardization Office (DSO) teams by integrating multiple data sources into Power BI dashboards to monitor Supply Chain Indicators (SCIs). Additionally, I recommended Key Performance Indicators (KPIs) to enhance data integrity and reporting accuracy. I also managed multiple project sprints simultaneously, ensuring efficient database management and streamlined reporting processes.
 
 Previously, I worked as a Market Research Analyst at Stanley Martin Homes, specializing in data visualization, consumer behavior analysis, and business intelligence. I created interactive dashboards using Tableau and Looker, conducted market segmentation research, and provided data-driven insights to stakeholders. My role involved designing and executing surveys, interviews, and competitor analysis while ensuring data accuracy and accessibility.
 
