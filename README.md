@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d2NGJvNWJwb2h6eTVpZmQ5emlkZGlibXRkeHE1Y3R6djQzcHJ6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d2NGJvNWJwb2h6eTVpZmQ5emlkZGlibXRkeHE1Y3R6djQzcHJ6dyZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500">
 </p>
+
 
 
 
@@ -36,11 +37,7 @@ Previously, I worked as a Market Research Analyst at Stanley Martin Homes, speci
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sshres10&show_icons=true&locale=en&layout=compact" alt="sshres10" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sshres10&" alt="sshres10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sshres10&show_icons=true&locale=en" alt="sshres10" /></p>
 
 
 
