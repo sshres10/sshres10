@@ -1,3 +1,5 @@
+<div style="background-color:#37474F; padding:15px; border-radius:10px;">
+
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d2NGJvNWJwb2h6eTVpZmQ5emlkZGlibXRkeHE1Y3R6djQzcHJ6dyZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500">
 </p>
