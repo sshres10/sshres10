@@ -54,10 +54,23 @@ Previously, I worked as a Market Research Analyst at Stanley Martin Homes, speci
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-         alt="python" width="80" height="80">
+         alt="python" width="80" height="80" style="margin-right: 15px;">
+  </a>
+
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
+         alt="powerbi" width="80" height="80" style="margin-right: 15px;">
+  </a>
+
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" 
+         alt="tableau" width="120" height="70">
   </a>
 
 </div>
+
 
 
 
