@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" alt="Data Analytics GIF">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d2NGJvNWJwb2h6eTVpZmQ5emlkZGlibXRkeHE1Y3R6djQzcHJ6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 </p>
 
 
