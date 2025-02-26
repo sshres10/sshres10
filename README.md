@@ -36,41 +36,46 @@ Previously, I worked as a Market Research Analyst at Stanley Martin Homes, speci
 
 <h2 align="left">🚀 Languages and Tools:</h2>
 
+<!-- Wrapper for proper spacing and alignment -->
+<div style="display: flex; gap: 20px; align-items: center; padding: 15px;">
 
-<!-- White background box for better visibility -->
-<div style="background-color: #ffffff; padding: 15px; border-radius: 10px; display: inline-block; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-
-  <!-- SQL Server -->
+  <!-- SQL Server (with white background) -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
-         alt="mssql" width="80" height="80" style="margin-right: 15px;">
+         alt="mssql" width="90" height="90" 
+         style="background-color: white; padding: 15px; border-radius: 15px; box-shadow: 2px 2px 10px rgba(255,255,255,0.2);">
   </a> 
 
-  <!-- Pandas -->
+  <!-- Pandas (with white background) -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" 
-         alt="pandas" width="80" height="80" style="margin-right: 15px;">
+         alt="pandas" width="90" height="90" 
+         style="background-color: white; padding: 15px; border-radius: 15px; box-shadow: 2px 2px 10px rgba(255,255,255,0.2);">
   </a> 
 
-  <!-- Python -->
+  <!-- Python (with white background) -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-         alt="python" width="80" height="80" style="margin-right: 15px;">
+         alt="python" width="90" height="90" 
+         style="background-color: white; padding: 15px; border-radius: 15px; box-shadow: 2px 2px 10px rgba(255,255,255,0.2);">
   </a>
 
-  <!-- Power BI -->
+  <!-- Power BI (with white background) -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
-         alt="powerbi" width="80" height="80" style="margin-right: 15px;">
+         alt="powerbi" width="90" height="90" 
+         style="background-color: white; padding: 15px; border-radius: 15px; box-shadow: 2px 2px 10px rgba(255,255,255,0.2);">
   </a>
 
-  <!-- Tableau -->
+  <!-- Tableau (with white background) -->
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" 
-         alt="tableau" width="80" height="80">
+         alt="tableau" width="90" height="90" 
+         style="background-color: white; padding: 15px; border-radius: 15px; box-shadow: 2px 2px 10px rgba(255,255,255,0.2);">
   </a>
 
 </div>
+
 
 
 
