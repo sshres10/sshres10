@@ -34,18 +34,31 @@ Previously, I worked as a Market Research Analyst at Stanley Martin Homes, speci
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> 
+<h2 align="left">🚀 Languages and Tools:</h2>
+
+<!-- Background box for better visibility -->
+<div style="background-color: #1e1e1e; padding: 15px; border-radius: 10px; display: inline-block;">
+
+  <!-- SQL Server -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
+         alt="mssql" width="80" height="80" style="margin-right: 15px;">
   </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> 
+
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" 
+         alt="pandas" width="80" height="80" style="margin-right: 15px;">
   </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
-  </a> 
-</p>
+
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+         alt="python" width="80" height="80">
+  </a>
+
+</div>
+
 
 
 
