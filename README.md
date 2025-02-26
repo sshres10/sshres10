@@ -16,6 +16,16 @@ As a Senior Database Management Specialist, I specialized in data analytics, dat
 Previously, I worked as a Market Research Analyst at Stanley Martin Homes, specializing in data visualization, consumer behavior analysis, and business intelligence. I created interactive dashboards using Tableau and Looker, conducted market segmentation research, and provided data-driven insights to stakeholders. My role involved designing and executing surveys, interviews, and competitor analysis while ensuring data accuracy and accessibility.
 
 
+## My Repositories - Streaming Data
+
+- [Module 1](https://github.com/sshres10/buzzline-01-case)
+- [Module 2](https://github.com/sshres10/buzzline-02-sushanta)
+- [Module 3](https://github.com/sshres10/buzzline-03-sushanta)
+- [Module 4](https://github.com/sshres10/buzzline-04-sushanta)
+- [Module 5](https://github.com/sshres10/buzzline-05-sushanta)
+- [Module 6](https://github.com/sshres10/buzzline-06-sushanta)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshres10&label=Profile%20views&color=0e75b6&style=flat" alt="sshres10" /> </p>
 
