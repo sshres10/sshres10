@@ -36,8 +36,9 @@ Previously, I worked as a Market Research Analyst at Stanley Martin Homes, speci
 
 <h2 align="left">🚀 Languages and Tools:</h2>
 
-<!-- Background box for better visibility -->
-<div style="background-color: #1e1e1e; padding: 15px; border-radius: 10px; display: inline-block;">
+
+<!-- White background box for better visibility -->
+<div style="background-color: #ffffff; padding: 15px; border-radius: 10px; display: inline-block; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
 
   <!-- SQL Server -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
@@ -66,10 +67,12 @@ Previously, I worked as a Market Research Analyst at Stanley Martin Homes, speci
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" 
-         alt="tableau" width="120" height="70">
+         alt="tableau" width="80" height="80">
   </a>
 
 </div>
+
+
 
 
 
